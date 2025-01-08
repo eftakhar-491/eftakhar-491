@@ -63,3 +63,10 @@
 </div>
 
 ###
+<h2 align="left">Stats_</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/eftakhar-491/eftakhar-491/output/snake.svg" alt="Snake animation" />
+
+###
