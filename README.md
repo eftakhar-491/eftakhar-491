@@ -1,12 +1,14 @@
-<h1 align="left">Md Eftakharul Islam</h1>
-
-###
 
 <div align="center">
   <img height="200" src="https://github.com/eftakhar-491/eftakhar-491/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner%20(1).png"  />
 </div>
 
 ###
+
+<h1 align="left">Md Eftakharul Islam</h1>
+
+###
+
 
 <h6 align="left">Web Developer | Frontend Developer</h6>
 
