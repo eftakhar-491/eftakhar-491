@@ -22,7 +22,7 @@
 
 <ul>
   <li>I am exploring NextJS , Typesctipt</li>
-<li>Working on a Workflow task management app</li>
+<li>Working on a event management app using nextJs</li>
   
 </ul>
 
