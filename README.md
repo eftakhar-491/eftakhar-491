@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left"> am Md. Eftakharul Islam Khan, a passionate self-taught web developer and programming enthusiast. I love solving problems, building web applications, and continuously learning new technologies. My journey in programming started with self-research, and now I strive to create impactful digital solutions. Let's connect and build something amazing!</p>
+<p align="left">I am Md. Eftakharul Islam Khan, a passionate self-taught web developer and programming enthusiast. I love solving problems, building web applications, and continuously learning new technologies. My journey in programming started with self-research, and now I strive to create impactful digital solutions. Let's connect and build something amazing!</p>
 
 <ul>
   <li>I am exploring NextJS , Typesctipt</li>
