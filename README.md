@@ -10,7 +10,7 @@
 ###
 
 
-<h6 align="left">Web Developer | Frontend Developer</h6>
+<h6 align="left">Frontend Web Developer | MERN Stack Developer</h6>
 
 ###
 
