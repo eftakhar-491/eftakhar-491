@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">My name is Md. Eftakharul Islam Khan. I am currently doing my Hon's in Accounting at Tejgaon College, Dhaka, Bangladesh. I am a programming enthusiast. I love coding and learning website development. I started my programming journey when I was in class 10. I did not follow the academic system to learn programming. I always tried to learn programming in a different way. I started doing research on programming. I started watching YouTube videos and kept practicing. Now I feel passionate about it. Not only programming but I also love playing games online. In my free time, I play games like Clash of Clans, Call of Duty, PUBG etc. I also give tuition to some students. I am a hardworking and focused individual. Whenever I start doing something productive, I do not let my focus shift anywhere else. I love to take challenges because challenges give me opportunities to learn something new. So, being an optimistic individual, I always look for opportunities and accomplishments.</p>
+<p align="left"> am Md. Eftakharul Islam Khan, a passionate self-taught web developer and programming enthusiast. I love solving problems, building web applications, and continuously learning new technologies. My journey in programming started with self-research, and now I strive to create impactful digital solutions. Let's connect and build something amazing!</p>
 
 <ul>
   <li>I am exploring NextJS , Typesctipt</li>
