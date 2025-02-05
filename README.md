@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="left">Md Eftakharul Islam</h1>
+<h1 align="left">Md Eftakharul Islam Khan</h1>
 
 ###
 
